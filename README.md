@@ -1,2 +1,4 @@
-# crescentlink-pro-releases
-CrescentLink software releases that are publicly available for download from the support portal and from within the application itself using "Check for updates".
+# CrescentLink Pro Releases
+This is a public repository used for hosting CrescentLink Pro software releases created and owned by [GEOGRAPH Technologies, LLC.](https://geograph.tech/) and is subject to [GEOGRAPH's Terms of Use](https://geograph.tech/terms-of-use/).
+
+For assistance or more information, please visit our [customer support portal](https://support.geograph.tech/).
